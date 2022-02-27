@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the order of the treaty appointed to be between the Kings most gracious Majesty, and the Right Honorable the Lords and Commons, Commissioners, from both Houses of Parliament, at Sir William Hodgesse House at New-port in the Isle of Wight. Which Commissioners set out from London, on Wednesday, Septemb. 13. 1648.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82209</idno>
+            <idno type="STC">Wing D735</idno>
+            <idno type="STC">Thomason E463_11</idno>
+            <idno type="EEBO-CITATION">50805841</idno>
+            <idno type="OCLC">ocm 50805841</idno>
+            <idno type="VID">162217</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82209)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162217)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E463[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the order of the treaty appointed to be between the Kings most gracious Majesty, and the Right Honorable the Lords and Commons, Commissioners, from both Houses of Parliament, at Sir William Hodgesse House at New-port in the Isle of Wight. Which Commissioners set out from London, on Wednesday, Septemb. 13. 1648.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Smithurst, neer Pye-corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term>Great Britain --  Politics and government --  1603-1714 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162217:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE Order of the Treaty Appointed to be Between the Kings moſt gracious Ma<g ref="char:EOLhyphen"/>jeſty, and the Right Honorable the Lords and Commons, Commiſſioners, from both Houſes of Parliament, at Sir <hi>William Hodgeſſe</hi> Houſe at <hi>New-port</hi> in the Iſle of <hi>Wight.</hi>
+            </p>
+            <p>Which Commiſſioners ſet out from <hi>London,</hi> on <hi>Wedneſday, Septemb.</hi> 13. 1648.</p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">DIEV ET MON DROIT</q>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+            </figure>
+            <p>
+               <add>Sept y<hi rend="sup">e</hi> 14<hi rend="sup">th</hi>
+               </add> 
+               <hi>London</hi> Printed for <hi>R. Smithurſt,</hi> neer Pye-corner, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162217:2"/>
+            <pb n="1" facs="tcp:162217:2"/>
+            <head>A DECLARATION OF THE Order of the Treaty.</head>
+            <p n="1">1<seg rend="decorInit">T</seg>He Kings Majeſty was ſet at liberty on <hi>Wedneſday</hi> Sep. 6. 1648 at Sir <hi>Willi<g ref="char:EOLhyphen"/>am Hodges</hi> houſe at <hi>Newport</hi> in the Iſle of <hi>Wight</hi> (where His Majeſties Court is to be during the Treaty) whither the Commiſſioners from the Parliament are to make their addreſſes to him.</p>
+            <p n="2">2 The Earle of <hi>Northumberland,</hi> the Earle of <hi>Pem<g ref="char:EOLhyphen"/>brooke,</hi> the Earle of <hi>Salisbury,</hi> the Earle of <hi>Middle<g ref="char:EOLhyphen"/>ſex,</hi> and the Lord Viſcount <hi>Sea</hi> from the Houſe of Lords. And the Lord <hi>Waynmor,</hi> Sir <hi>Henry Vaine,</hi> jun. Sir <hi>John Pots,</hi> Mr. <hi>Crew,</hi> Mr. <hi>Perepoint,</hi> Mr. <hi>Hollis,</hi> Sir <hi>Harbottle Grimston,</hi> Mr. <hi>Glin</hi> the Recor<g ref="char:EOLhyphen"/>der, Mr. <hi>Bulkley,</hi> and Mr. <hi>Samuell Brown,</hi> of the Houſe of Commons, are choſen to be Commiſſioners from the two Houſes of Parliament during this Treaty. And went from <hi>London</hi> on Wedneſday Sep. 6. 1648.</p>
+            <p n="3">3 Theſe Commiſſioners are to Treat immediatly with the Kings perſon, To deliver what both Houſes of Parliament ſhall command, to His Majeſty, and
+<pb n="2" facs="tcp:162217:3"/>none elſe. And take account of His Majeſties Anſwer or what he ſhall propound, from none on His Ma<g ref="char:EOLhyphen"/>jeſties behalfe, but from the King immedi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tly</p>
+            <p n="4">4 The Kings Majeſty being acquainted that they are come from the Parliament to joyne with him in a perſonall Treaty, His Majeſty is to appoint them a time when, and place where to waite upon Him, The place is made ready at the aforeſaid Mr. <hi>Hogeſſe</hi> at <hi>Newport</hi> in the Iſle of <hi>Wight.</hi>
+            </p>
+            <p n="5">5 The ſaid Commiſſioners from Parliament are then to meet the King according to directions from His Majeſtie.</p>
+            <p n="6">6 The Commiſſion<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs ſo ſoone as they have met His Majeſtie at the place and the time appointed by His Majeſty for the Treaty, They are to preſent the Propoſitions to the Kings, from both Houſes (which Propoſitions are the ſame, that was delivered at <hi>Hampton-Court.</hi>
+            </p>
+            <p n="7">7 At the delivery of the Propoſitions one of the Lords is to make a ſpeech, ſhewing the cauſe of their comming to His Majeſty; and to declare to His Ma<g ref="char:EOLhyphen"/>jeſty how much the Parliament doe deſire that the ſaid Treaty may procure an happy peace.</p>
+            <p n="8">8 That Lord who makes the ſaid ſpeech, (or ſome other of the Commiſsioners) is to reade over the ſaid Propoſitions to His Majeſty before all the reſt of the Commiſsioners, and ſuch attendants as His Majeſty ſhall have to waite upon Him.</p>
+            <p n="9">9 The reſt of the Commiſsioners from the Parlia<g ref="char:EOLhyphen"/>ment are to make ſuch ſpeeches to His Majeſty as they thinke fit.</p>
+            <p n="10">10 His Majeſty is then to give ſome Anſwer by
+<pb n="3" facs="tcp:162217:3"/>ſpeech thereunto (as to the matter of Reſolution) when and how he will returne them an Anſwer to the ſaid Propoſitions.</p>
+            <p n="11">11 His Majeſty then is to withdraw, and the Com<g ref="char:EOLhyphen"/>miſſioners return to their lodgings.</p>
+            <p n="12">12 The Commiſsioners are preſently to ſend a meſſenger to the Parliament with letters to give ac<g ref="char:EOLhyphen"/>count to both Houſes of the ſaid overtures</p>
+            <p n="13">13 His Majeſty then adviſeth with ſuch as he ſhall deſire of thoſe that are appointed to waite upon Him, (viz.)</p>
+            <p>Gentlemen of his Majeſties Bed-chamber. Duke <hi>Richmond,</hi> Mar. <hi>Hert<g ref="char:EOLhyphen"/>ford,</hi> Earle <hi>Lindſey,</hi> Ear. <hi>Southampton.</hi> Grooms of his Bed-chamber. M. <hi>George Kirke, James Levenſton, Henry Murry,</hi> His Barber. <hi>Thomas <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>avis.</hi> Pages of his Back-ſtaires. <hi>Hugh Henne. Humph. Rogers. William Levett.</hi> Yeo<g ref="char:EOLhyphen"/>man of his Robes. <hi>Rives.</hi> Queries, with foure or ſix of his Foot-men, as they find fitteſt to wait. Sir <hi>Ed. Side<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ham, Robert Terwit, Iohn Houſdon.</hi> Miſtris <hi>Wheeler,</hi> Laundreſſe, with ſuch M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ids as ſhe ſhall chuſe, The Groom of his Preſence, <hi>Parſons.</hi> To wait as they did, or as he ſhall appoint them, Sir <hi>Foulk Grevill,</hi> Captain <hi>Titus,</hi> Cap. <hi>Boroughs,</hi> Mr. <hi>Creſſert, Hanſtid, Fire<g ref="char:EOLhyphen"/>brace,</hi> Chaplains, Biſhop of <hi>London,</hi> Biſhop of <hi>Salisbury,</hi> Dr. <hi>Hamond,</hi> Dr. <hi>Saund<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſon,</hi> Dr. <hi>Turner,</hi> Dr. <hi>Haywood.</hi> Lawyers, Sir <hi>Tho. Gardiner,</hi> Sir <hi>Ort. Bridgeman,</hi> Mr. <hi>Jeff. Palmer,</hi> Mr. <hi>Tho. Cook,</hi> Mr. <hi>John Vaughan, Advocate Reeves D. Duck.</hi> Clerks and Writers, S r <hi>Ed. Walker,</hi> M. <hi>Phil. Warwick, Nic. Oudart, Charles Whittacre.</hi> To make ready the houſe for Treating, <hi>Petor Newton, Clem. Kenerſley.</hi>
+            </p>
+            <p n="14">14 Time being come for the Commiſſioners to waite again upon the King: They go to the place appointed, and there His Majeſty delivers ſuch Anſwer to their Propoſitions as he ſhall thinke fit and doth alſo propound ſuch things in relation to the Treaty as he ſhall pleaſe.</p>
+            <p n="15">15 The Commiſsioners from the Parliament receiving H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Majeſties Anſwer, and Propoſitions, proceed to treate with the King on ſuch particulars as ſhall be inſerted on<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in rel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<g ref="char:EOLhyphen"/>on to what they have preſented from the P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rliament; The firſt of which is, to be for His Majeſty to recall <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll his Propoſi<g ref="char:EOLhyphen"/>tions, Declarations, &amp;c. againſt the Parliament, and them or ſettling the Militia, and Church-Governm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p n="16">16 The Commiſſioners are to give reaſons w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="4" facs="tcp:162217:4"/>theſe ſhould be firſt inſiſted on, and why his Majeſty ſhould grant the paſſing of them.</p>
+            <p n="17">17 What Propoſitions the Commiſſioners receive from his Majeſty that are not included in the Propoſi<g ref="char:EOLhyphen"/>tions from the Parliament, they are to communicate to the Parliament, before they conclude any thing therein.</p>
+            <p n="18">18 Whatſoever the anſwer is from his Majeſty, and what he doth propound to the Commiſſioners, they are forthwith to acquaint the Parliament therewith.</p>
+            <p n="19">19 After the firſt meeting of the Commiſſioners with his Majeſty. The Treaty is to continue 40 dayes. And every day to be ſpent in the Treaty, for conclu<g ref="char:EOLhyphen"/>ding of a ſafe and well-grounded peace; And bring<g ref="char:EOLhyphen"/>ing his Majeſty home to joyn with his Parliament.</p>
+            <p n="20">20 As each Propoſition is concluded, his Majeſty and the Commiſſioners are to paſſe on to the next, and ſo to the next, untill all be finiſhed, or the time ex<g ref="char:EOLhyphen"/>pended. And if it pleaſe God, that a peace be conclu<g ref="char:EOLhyphen"/>ded, and all agreed; Then after the concluſion of all, His Majeſty and the Commiſsioners are to ſigne to the Agreement.</p>
+            <p n="21">21 Meſſengers are appointed to come daily with Letters from the Commiſſioners, &amp; to paſſe between them and the Parliament, to give account of the Trea<g ref="char:EOLhyphen"/>ty, and how things go on from day to day.</p>
+            <p n="22">22 Concerning any doubts which the Commiſſi<g ref="char:EOLhyphen"/>oners ſhal ſcruple in the Treaty, they are to make their applications to the Houſes for inſtructions therein.</p>
+            <p n="23">23 The Commiſſioners are to Treate upon ſuch Propoſitions as they ſhall receive from his Majeſty, accordingly as they ſhall receive Inſtructions from
+<pb n="5" facs="tcp:162217:4"/>both Houſes of PARLIAMENT.</p>
+            <p n="24">24 During this Treaty his Majeſty is to have hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> liberty with freedome, honour, and ſafety to his per<g ref="char:EOLhyphen"/>ſon.</p>
+            <p n="25">25 If it pleaſe God ſo to bleſſe this Treaty that a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhall be agreed &amp; a Duplicate ſigned by His Majeſty and the Commiſsioners, then His Majeſty is to have that ſigned by the Commiſsioners. And the Com<g ref="char:EOLhyphen"/>miſsioners are to communicate that ſigned by His Ma<g ref="char:EOLhyphen"/>jeſty to the Parliament, to bee ratified and confirm<g ref="char:EOLhyphen"/>ed by both Houſes of Parliament.</p>
+            <p n="26">26 Both Houſes are to draw thoſe Propoſitions in<g ref="char:EOLhyphen"/>to Bills, without any alterations at all, ſave onely ſuch verbal expreſsions as are uſual to Statutes, That is to ſay, to adde ſuch words as theſe (viz.) <hi>Be it En<g ref="char:EOLhyphen"/>acted by His Majeſty and the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament, &amp;c.</hi>
+            </p>
+            <p n="27">27 All being thus drawne into Bills His Majeſty is to give His Royall aſſent for the paſsing of them, they being either ſent to Him in the Iſle of <hi>Wight</hi> (or elſe where, as ſhall bee agreed by His Majeſty and both Houſes of Parliament) for after all is concluded (if it pleaſe God to give ſo good an iſſue to the Trea<g ref="char:EOLhyphen"/>ty) it is then very probable that his Majeſty will come to <hi>London,</hi> or to ſome of his Courts neer <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> for if all ſhall be agreed and ſigned, all jealouſie then is ended and vaniſhed.</p>
+            <p n="28">28 His Majeſty having paſſed theſe Bills. Then are Commiſsioners Royall to be choſen by his Ma<g ref="char:EOLhyphen"/>jeſty for the paſsing of them the Great Seale.</p>
+            <p n="29">29 All being thus concluded, his Majeſty is to ſit,
+<pb n="6" facs="tcp:162217:5"/>and joyn with his Parliament, and all our ſad diffe<g ref="char:EOLhyphen"/>rences between the King and Parliament, to be end<g ref="char:EOLhyphen"/>ed. And King and Parliament to goe hand in hand againſt the common Enemy. (which God grant they may doe, that we may ſee ſweet and golden dayes a<g ref="char:EOLhyphen"/>gaine.</p>
+            <p n="30">30 If it pleaſe God that <hi>England</hi> ſhall be ſo happy to ſee ſuch comfortable dayes of agreement between the King and Parliament, There will be a joyfull day of Thankſgiving unto Almighty God. And then will all that feare God ſay,</p>
+            <closer>God bleſſe the KING and PARLIAMENT.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
